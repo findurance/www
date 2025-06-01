@@ -5,13 +5,6 @@ Osittain opittua, osittain omaan kokemukseen, intuitioon ja järkeilyyn perustuv
 
 # Mittaus
 
-Sovittaessa huomioitavaa:
-
-* Oikea solkien kiristysjärjestys
-* Paina kantapää kuppiin
-* Varaa tarpeeksi aikaa: monon pitää olla jalassa 30min
-* Varsinainen sovitus kotona ajan kanssa, useaan otteeseen
-
 Virheet:
 
 * Koko valitaan arkikengän tai lenkkarin mukaan -> varmasti liian iso!
@@ -49,6 +42,15 @@ Tämä on vain lähtökohta sovitukselle; lopullinen monon tuntuma ratkaisee.
 
 # Sovitus
 
+Sovittaessa huomioitavaa:
+
+* Oikea solkien kiristysjärjestys
+* Paina kantapää kuppiin
+* Varaa tarpeeksi aikaa: monon pitää olla jalassa 30min
+* Varsinainen sovitus kotona ajan kanssa, useaan otteeseen
+* **HUOM:** sovitustilanne lämpimässä: kylmässä jalka kutistuu, joten pienet epämukavuudet häviää
+* **HUOM:** pienet painepisteet saattaa hävitä käytössä, kun sisäkenkä muotoutuu ja ohenee painepisteestä.
+
 ## Kuoren sovitus
 
 1. Ilman sukkia tai ohuiden sukkien kanssa
@@ -59,7 +61,7 @@ Tämä on vain lähtökohta sovitukselle; lopullinen monon tuntuma ratkaisee.
 Varpaat monon kärkeen. Kantapään taakse jää pituuden suhteen tilaa:
 
 * yli 25mm: liian pitkä mono
-* 15-15mm: mukavuusmitta
+* 15-25mm: mukavuusmitta
 * 10mm: suorituskykyinen mono
 
 **Huom:** toeboxit ovat eri muotoisia:
@@ -179,15 +181,7 @@ Huomaa, että avauma jää hitusen raolleen instepin kohdalta. Tämä on sopivan
 
 ---
 
-# Sopivan tuntuisia monomalleja
-
-Muistiinpanoja omista sovituksista. Tarkoitettu palvelemaan tulevia monosovituksia sopivan monon
-etsinnässä.
-
-Lähtökohtaisesti kokemuksesta havaittu sopivaksi lähtökohdaksi:
-
-* MV-monoissa (100mm) koko 26.5
-* LV-monoissa (98mm) koko 27.5
+# Omat monot
 
 ## Tecnica Mach1 130 MV (2024-2025)
 
@@ -216,6 +210,38 @@ Monoa pois ottaessa pikkuvarpaan kohdalta jalkaterä "murjoutunut". Monoa pystyi
 * Toisella kertaa muokattiin jalka istumaan "tasaisena" ja siitä tuli kokopäiväkelpoinen.
 
 **Sisäkenkä:** Zipfit Gara LV 26.5
+
+## Atomic Hawx Ultra 130 XTD GW (2022-2023)
+
+* LV, lesti 98mm
+* Koko: 27.5 (100mm)
+* Shell fit: 12/20mm
+
+Sovitussukkana liikkeessä punainen Spyder, paksuhko. Alkuun laskusukkana XSocks, joka vähän ohuempi.
+Ekat päivät mono oli todella kireä. Ohuen kuoren takia myös kylmä. Sisäänajon jälkeen rinnesukkana
+Spyder on hyvä, sillä sisäkenkä on aika ohut loppujen lopuksi. Hiihtämiseen ohuempi sukka.
+
+Kotona lämpimässä sovittaessa oikean jalan pikkuvarpaan kohdalta tuntu kapealta. Laskuolosuhteessa
+ei kuitenkaan mitään ongelmaa.
+
+Toe box on kapea. Kantapää istuu napakasti. Instep hieman tilavahko ollakseen LV-mono. Ensimmäinen
+mono jonka oikeasti ostin vasempaan jalkaan napakasti istuvana (huom. kuitenkin: Spyder sukkana).
+Ohuen sovitussukan kanssa olisi huomannut että rinnekäyttöön ehkä liian ohut sisäkenkä.
+Vrt. Hawx 120 XTD, jossa oli selvästi paksumpi sisäkenkä; tuntui liian kireältä Spyderin kanssa.
+
+Koko 27.5 on hyvä siksi, että tarkoitus on käyttää randokenkänä: pituus ehkäisee varpaiden osumia.
+
+---
+
+# Sopivan tuntuisia monomalleja
+
+Muistiinpanoja omista sovituksista. Tarkoitettu palvelemaan tulevia monosovituksia sopivan monon
+etsinnässä.
+
+Lähtökohtaisesti kokemuksesta havaittu sopivaksi lähtökohdaksi:
+
+* MV-monoissa (100mm) koko 26.5
+* LV-monoissa (98mm) koko 27.5
 
 ## Tecnica Mach1 130 LV (2024-2025)
 
