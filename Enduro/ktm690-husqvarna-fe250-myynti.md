@@ -4,8 +4,8 @@ Hyvällä pidolla ollut 690 Enduro. Pääosa kilometreista (21tkm) nykyisen omis
 30 000km huolto juuri tehty, venttilivälykset säädetty, uusi tulppa. Valmis paketti suoraan seikkailuun.
 Täydellinen merkkiliikken huoltokirja, muuten pidetty kilometrintarkka huoltokirjanpito.
 
+### Varusteet:
 
-Varusteet:
 - Powerparts tuulilasi
 - Powerparts Ergo-satula
 - Wings äänenvaimennin, alkuperäinen mukaan
@@ -18,7 +18,8 @@ Varusteet:
 - 12V ulosotto
 - Cobrra Nemo 2 ketjuöljyri
 
-Viimeisen 4500km sisään tehty:
+### Viimeisen 4500km sisään tehty:
+
 - Etu- ja takaiskarihuollot
 - Swingin ja linkkujen laakerien rasvaus + uudet stefat
 - Uusi bensansuodatin tankkiin
@@ -32,7 +33,7 @@ Valmis pyörä harrastajalle, miksei kisaankin?!
 Ajettu 160h, edellisellä omistajalla ollut kevyessä harrastusajossa sekä 30h safariajossa. Viimeiset
 60h rauhallista kuntoiluajoa. 152h kohdalla keskinopeusmittari 26km/h, patterinvaihdossa nollaantui.
 
-Janne Suomisen tekemä alusta, rauhoitettu vakiosta - toimii todella hyvin! Jouset n. 85km kuskille (kalsaripaino),
+Janne Suomisen tekemä alusta, rauhoitettu vakiosta - toimii todella hyvin! Jouset n. 85kg kuskille (kalsaripaino),
 vakio takaiskari mukaan.
 
 Öljyt ja ilmansuodatin vaihdettu 10h välein
@@ -40,7 +41,8 @@ Kuvasta poiketen myydään alkuperäisellä Protaper-ohjautangolla.
 
 Tunteja tulee nykyisellään hissukseen lisää, n. 0.5-1h / viikko.
 
-Varusteet:
+### Varusteet:
+
 - AXP pohjapanssari
 - AXP syylärin tuet/suojat
 - Kytkinkopan suojus
@@ -48,11 +50,13 @@ Varusteet:
 - Tankin täyttöaukon suodatinsukka
 - Korkea penkki, vakio mukaan
 
-Huollot 30h sisällä:
+### Huollot 30h sisällä:
+
 - Venttilivälykset tarkastettu
 - Polttoainesuodatin vaihdettu tankin sisälle
 
-Huollot 20h sisällä:
+### uollot 20h sisällä:
+
 - Linkun ja swingin laakerit rasvattu
 - Ohjauslaakerin rasvaus
 - Takajarrupalojen vaihto + jarrun huolto
@@ -60,7 +64,8 @@ Huollot 20h sisällä:
 - Uusi akku
 - Uudet muovit + tarrat (200e+)
 
-Mukaan:
+### Mukaan:
+
 - 4kpl ilmansuodattimia
 - Alkuperäinen pohjapanssari
 - Alkuperäinen Husqvarna-kansio + työkalusarja
@@ -71,7 +76,6 @@ Mukaan:
 - Vakio takajousi (48N/mm)
 - Vakiopenkki
 - Varaosia: eturattaita, pinnoja, tulppa
-
 
 
 Pyörän "lähtöhinta" 7800e
