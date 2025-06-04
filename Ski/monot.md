@@ -128,11 +128,20 @@ on mono väärä perusmuodoltaan tai tilavuudeltaan.
 Tunnustele seuraavia seikkoja:
 
 * **Kantapää:** kantapää pitää istua napakasti, "pihtiotteessa", ei saa tuntua liian pehmustetulta ja tilavalta
+    * Katso että kantapää menee kantakuppiin perille asti! Jos ei mene, niin akillesjänne työntää jalkaa eteenpäin,
+      ja kantapää ei saa tukea!
+    * **LASKIESSA** kantapään pitää mennä monossa perälle asti kunnolla!
+    * Kokeille myös pohjallisen kanssa, meneekö kantakuppiin OK?
+    * Esim. Rossignolin WC-monossa (=Lange RS) nilkkanivelen kohdalta tiukka. Kantapää juuri ja juuri perälle asti,
+      kun kantapäätä nostaa vähän irti pohjasta, sekä kuorta vähän "avaa". (Sisäkenkä tekee tämän laskiessa..)
 * **Instep:** pitää painaa kantapäätä kuppiin, instepin päälle ei saa jäädä tyhjää tilaa.
     * Joissakin monoissa instep voi olla uutena niin kireä että tekee kipeää. Kokeile säätää sisäkenkää ja/tai anna aikaa sovitukselle!
     * Esim. S/Pro 130 Supra BOA
 * **Nilkka:** nilkka pitää olla sopivasti "puristava", muttei kiristä niin että verenkierto häiriintyy
     * Hawx Ultra XTD:n ekat laskukerrat oli "vanne" nilkan ympärillä, kunnes pakkaantui
+    * Onko sisäpuolen nilkkaluussa painetta? Estääkö kantapään menon kuppiin?
+      **HUOM**: tätä tunnustellessa, muista että sisäkengän varsi tukee säärtä eikä paine ole niin kova
+      kuin pelkkää kuorta sovittaessa - simuloi sisäkengän tukea laittamalla käsi varren sivun ja säären väliin
 * **Varpaat:** Ei saa olla kivuliasta painetta tai puristusta
     * Huom: varpaiden paieen tunne voi johtua ulkosyrjältään liian kapeasta monosta
     * Esim: jalka painuu vinoon ja lopullinen varvaskivun syy löytyy "toiselta puolelta monoa."
@@ -215,7 +224,7 @@ Monoa pois ottaessa pikkuvarpaan kohdalta jalkaterä "murjoutunut". Monoa pystyi
 
 * LV, lesti 98mm
 * Koko: 27.5 (100mm)
-* Shell fit: 12/20mm
+* Shell fit: 20/15mm
 
 Sovitussukkana liikkeessä punainen Spyder, paksuhko. Alkuun laskusukkana XSocks, joka vähän ohuempi.
 Ekat päivät mono oli todella kireä. Ohuen kuoren takia myös kylmä. Sisäänajon jälkeen rinnesukkana
@@ -247,7 +256,7 @@ Lähtökohtaisesti kokemuksesta havaittu sopivaksi lähtökohdaksi:
 
 * LV, lesti 98mm
 * koko 27.5
-* Shell Fit: 15/20mm, (noin)
+* Shell Fit: 20/15mm, (noin)
 
 Tuntui heti laatikosta oikean kokoiselta. Monoa pois ottaessa iltti jäi kuoren avautuman väliin.
 Instep uutena "liian matala", eli mahdollisesti todella sopiva sisäänajon jälkeen. Kantapää istui
@@ -277,8 +286,7 @@ Toeboxin korkeussuuntainen reilu tila vähän epäilytti, joten lopulta päädyt
 
 ## Salomon S/Pro 130 Supra BOA (2024-2025)
 
-MV, lesti 100mm (reilu, lähes ehkä 101mm tuntuma)
-
+* MV, lesti 100mm (reilu, lähes ehkä 101mm tuntuma)
 * Koko 26.5
 * Shell fit: n. 10mm
 
@@ -304,9 +312,25 @@ Lähes epäilyttävän mukavan oloinen ollakseen näin tiukka. BOAssa tosin sä�
 
 * LV, lesti: 97mm
 * Koko: 27.5
-* Shell fit:
+* Shell fit: 20/15mm (noin)
+
+Ensisovitusta ei tarvinnut tehdä kompressiosukalla...
 
 "Kisakenkä".
+Kantapäästä puoleen väliin jalkaa saakka todella napakka sivusuunnassa. Instep "normaalihko",
+tuntuu ehkä liian tilavalta. Toebox pystysuunnassa tilava. 27.5-kokoisena päkiässä "mukavuustilaa".
+
+Sidas Merino -pohjallisella saa hyvin tilavuutta pois ja solkia kiristämällä saa kyllä kiristettyä
+kovemminkin jalkapöydästä. Ei tarvinnut kompressiosukkaa, joka vähän mietityttää.
+Samoin vielä tuon jalkapöydän ja reilun päkiän tilan osalta. Jotenkin tuntuu että instep saisi olla
+tiukempi ilman solkien kiristämistä.
+
+Voisi olla napakka "mukavuuskenkä", mutta tässä mitassa ei ehkä "kisakenkä" omaan jalkaani.
+Flex ei liian jäykkä huonelämmössä, vaikka merkintä onkin 140.
+
+Kun vihdoin sai kummatkin monot jalkaan, kompressiosukan kanssa: todellakin voisi olla
+suorituskykyinen mukavuuskenkä. Sopii todella hyvin jalan muotoon. Mutta hieman tilava siihen
+nähden mitä etsitään: kisamonoa.
 
 ---
 
