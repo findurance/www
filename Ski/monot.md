@@ -306,9 +306,26 @@ Kantapää ei äärimmäisen napakka, mutta silti tuntui tukevalta.
 
 Lähes epäilyttävän mukavan oloinen ollakseen näin tiukka. BOAssa tosin säätövaraa todella paljon.
 
-## Rossignol Hero World Cup 140 LV (2023-2024)
+## Rossignol Hero World Cup 130 MV (2024-2025)
 
-**TODO**
+* MV, lesti: 100mm
+* Koko: 26.5
+* Shell fit: 10mm (noin)
+
+Sovitus kompressiosukalla. Pakkasesta otettuna kokeiltu myös ohuella Uphill-sukalla.
+Pohjallisena Sidas 3Feet Low,
+
+Istuu jalan muotoon todella hyvin. Kanta kapea, leveä jalkaterä. Vasen jalka istuu täydellisesti.
+Oikean jalan lineri on liian lyhyt 5-10mm, (pikkurilli-ukkovarvas) ja painaa varpaita kippuraan.
+Tämä taitaa tehdä vähän virheasentoa. Painepiste 5. jalkapäytä juuressa ("vakiopaikassa"), johon
+osittain vaikuttanee tuo varpaiden kippurassa oleminen, joka painaa jalkaa vähän ulkosyrjälle.
+Oikean jalan muuten todella tiukka istuvuus helpottanee laskuviileänä. Sisäkenkä vaatii muokkauksen.
+
+Flex: yllättävän rento huonelämmössä. Pakastimesta otettuna kuori viileänä selvästi jäykempi, muttei
+edelleenkään järisyttävän kova. Flex on aluksi todella kevyt, tiukkenee progressiivisesti syvemmälle
+mentäessä. Voi olla että talvipakkasessa varsin hyvä, muttei mikään ääretön kisakenkä.
+
+## Rossignol Hero World Cup 140 LV (2023-2024)
 
 * LV, lesti: 97mm
 * Koko: 27.5
